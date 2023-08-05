@@ -1,0 +1,10 @@
+- If an invoice needs to be paid, keep it as is. It is very important that I do not miss any invoices that need to be paid.
+- Invoices that are being paid automatically can be archived.
+- 'Welcome to this website' emails without email activation should be deleted.
+- Promotional emails, such as calls to download an app, should be deleted. If in doubt, archive them.
+- If the subject of the email provides enough information, archive it.
+- Shipment notifications can be archived.
+- New login notifications for services can be deleted, as well as 'new device is using your account' type of messages.
+- Meeting reminders can be archived, or even deleted when it's a promotional reminder.
+- Any promotional emails (sales, gift promotions, event invitations, etc.) should be deleted.
+- Please make a function call. The options are: archive, delete, reply, forward, or keep_as_is.
